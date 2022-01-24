@@ -58,10 +58,15 @@ div.relative {
     justify-content: center;
     align-items: center;
   }
-/* .revew{
-    margin-left: 500px;
-} */
-
+.img{
+    width: 135px;
+    height: 100px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 20px 40px;
+}
   @media (max-width: 800px) {
     .question{
       flex-direction: row;
