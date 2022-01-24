@@ -8,6 +8,9 @@ body{
 .nav{
     position: fixed;
 }
+.toast-msg{
+    text-align: right;
+}
 .carousel-item img{
     width: 1440px;
     height: 584px;
@@ -57,6 +60,12 @@ div.relative {
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+  .app{
+      text-align: right;
+  }
+  .get-app{
+      margin-right: 100px;
   }
 .img{
     width: 135px;
