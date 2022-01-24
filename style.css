@@ -9,3 +9,74 @@ body{
     width: 1440px;
     height: 584px;
 }
+.package-heading{
+    text-align: center;
+}
+.package{
+    margin: 50px 10px;
+}
+.btn{
+    background-color: aliceblue;
+    color: blue;
+}
+.card-text{
+font-size: 15px;
+font-weight: 400;
+}
+.card{
+    border: 0;
+}
+.card-style{
+    background-color: #3F87F5;
+    color: white;
+    border-radius: 20px;
+}
+.styl-btn{
+    margin-left: 50px;
+}
+
+div.relative {
+    position: relative;
+    font-size: 5px;
+    color: white;
+   
+  }
+  
+  div.absolute {
+    position: absolute;
+    top: -15px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: tomato;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.absolute{
+   
+  
+}
+
+/* .flex-container {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+  }
+
+
+
+
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: wrap;
+    }
+  }
+
+  @media (max-width: 1080px) {
+    .flex-container {
+      flex-direction: wrap;
+    }
+  } */
